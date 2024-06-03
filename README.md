@@ -1,2 +1,5 @@
-# Way-to-Subscribe-ChatGPT-Plus
-在大陆地区使用银联卡通过 iOS 订阅 ChatGPT Plus和Claude pro的一些实践
+# Way-to-ChatGPT-Plus
+面向非专业群体的一份攻略集，计划包括这些部分：
+- 注册美区iOS账号
+- 在大陆使用银联卡通过美区Apple id订阅ChatGPT Plus、Claude pro等类似产品
+- 通过ChatX、ChatBox等软件使用ChatGPT API
