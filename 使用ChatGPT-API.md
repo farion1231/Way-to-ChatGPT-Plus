@@ -25,7 +25,7 @@ API可以理解为电力，使用API的客户端就是各种不同的电器，�
 
 要使用API，我们需要两个关键数据，**中转接口地址** 和 **API-Key**(也就是令牌)，中转接口地址在中转站的教程页面会注明(一般网站地址就是)，API-Key需要自己创建。
 
-以AiHubMix为例，中转接口地址就是[https://aihubmix.com]，还有一个高防御接口地址[https://api.aihubmix.com]，API-Key在"令牌"页面点击"创建令牌"来创建，如下图
+以AiHubMix为例，中转接口地址就是`https://aihubmix.com`，还有一个高防御接口地址`https://api.aihubmix.com`，API-Key在"令牌"页面点击"创建令牌"来创建，如下图
 
 ![token1](./imgs/token.png)
 
