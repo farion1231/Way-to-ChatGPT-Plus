@@ -10,6 +10,8 @@
 按照官方说法，tab 补全的高级特性（多行补全、隔行补全等）不能在自定义 API 的时候使用，但是实测可以用。
 ![cursor1](./imgs/cursor1.png)
 
+需要注意的一点是，Cursor 只有 OpenAI 的模型支持自定义地址，在使用其他模型的时候会默认调用官方地址，因此国内的 API 转发站通过自定义模型名字来实现 OpenAI 的 Key 调用 Claude 在这里是行不通的，想使用 Claude 模型必须配置 Anthropic 的官方 Key。
+
 另外官方提供的 chat 是按次数计算，自备 API 是按 token 计算，官方说自备 API 的花费有可能比订阅的 20 刀更多，这句话是真的，下面是我针对某个问题提问了四次的 token 花费：
 
 ![cursor](./imgs/cursor.png)
