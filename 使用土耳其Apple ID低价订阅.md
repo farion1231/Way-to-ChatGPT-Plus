@@ -10,7 +10,7 @@
 
 ## 购买礼品卡
 
-之前一直可以从 [oyunfor](https://www.oyunfor.com/) 购买礼品卡，但是最近支付渠道出了一点问题（中国地区接受验证短信的号码被固定为了 05\*\*的固定电话格式，导致无法正常输入手机号），可以通过 whatsapp 联系 oyunfor 客服来解决，懒得折腾可以先从闲鱼购买。
+之前一直可以从 <a href="https://www.oyunfor.com/" target="_blank">oyunfor</a> 购买礼品卡，但是最近支付渠道出了一点问题（中国地区接受验证短信的号码被固定为了 05\*\*的固定电话格式，导致无法正常输入手机号），可以通过 whatsapp 联系 oyunfor 客服来解决，懒得折腾可以先从闲鱼购买。
 
 ![土耳其订阅](./imgs/TurkeyCard1.png)
 
@@ -20,6 +20,6 @@
 
 ### 最后再次强调，Apple ID 和 ChatGPT 账号一定要自己注册，千万不要购买批量注册的账号，不然付费后封号的风险非常高！ChatGPT 对节点质量要求比较高，请尽量使用高质量梯子，不然容易出现降智封号等问题。风控严格的产品（说的就是你 Claude）新注册的账号请使用一段时间以后再考虑订阅 Pro 账号。
 
-如果没有稳定的梯子可以试试我在用的这个 [红海](https://honghai.xn--cesw6hd3s99f.com/#/register?code=W6yBwyS0) ，用了快三年没有出现过降智封号的情况。
+如果没有稳定的梯子可以试试我在用的这个 <a href="https://honghai.xn--cesw6hd3s99f.com/#/register?code=W6yBwyS0" target="_blank">红海</a> ，用了快三年没有出现过降智封号的情况。
 
 **另外 ChatGPT PLUS 在尼日利亚区有逆天的 6 美元低价，订阅方式和土耳其区基本一致，感兴趣的朋友可以自己尝试。**

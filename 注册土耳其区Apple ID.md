@@ -2,7 +2,7 @@
 
 注册土耳其区 Apple ID 需要一个土耳其地址，在这里还是使用神奇的地址生成器来获取。
 
-[土耳其地址生成器](https://www.meiguodizhi.com/tr-address)
+<a href="https://www.meiguodizhi.com/tr-address" target="_blank">土耳其地址生成器</a>
 
 ![土耳其地址](./imgs/Turkey.png)
 

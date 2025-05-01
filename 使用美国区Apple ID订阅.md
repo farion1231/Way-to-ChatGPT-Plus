@@ -10,7 +10,7 @@
 
 ## 购买礼品卡
 
-第一步，前往[苹果官网](https://www.apple.com/shop/buy-giftcard/giftcard)购买礼品卡。
+第一步，前往<a href="https://www.apple.com/shop/buy-giftcard/giftcard" target="_blank">苹果官网</a>购买礼品卡。
 
 ![礼品卡1](./imgs/card1.png)
 ![礼品卡2](./imgs/card2.png)
